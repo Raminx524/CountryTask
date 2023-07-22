@@ -1,0 +1,32 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+  background-color: rgb(255, 196, 0);
+}
+header {
+  position: fixed;
+  display: flex;
+  width: 100%;
+  background-color: rgb(160, 28, 28);
+}
+#index {
+  display: flex;
+  padding-top: 90px;
+  flex-direction: column;
+}
+footer {
+  display: flex;
+  width: 100%;
+  background-color: rgb(160, 28, 28);
+  margin-top: auto;
+}
+footer > h2 {
+  padding-left: 50px;
+}
+#contactUs {
+  display: flex;
+  padding-top: 110px;
+  flex-direction: column;
+}
