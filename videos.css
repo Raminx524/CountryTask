@@ -1,0 +1,17 @@
+.vid {
+  width: 500px;
+}
+#vids {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.vidRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 24px;
+}
+#mVids {
+  padding-bottom: 16px;
+}

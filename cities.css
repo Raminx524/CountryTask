@@ -1,0 +1,24 @@
+.logo {
+  width: 100px;
+  height: 100px;
+}
+#ctable {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 16px;
+}
+table,
+th,
+tr,
+td {
+  border: solid 2px rgb(0, 0, 0);
+  border-collapse: collapse;
+  text-align: center;
+}
+table {
+  width: 80%;
+}
+ul {
+  list-style: none;
+}
