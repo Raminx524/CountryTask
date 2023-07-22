@@ -30,3 +30,18 @@ footer > h2 {
   padding-top: 110px;
   flex-direction: column;
 }
+#ctable {
+  padding-top: 110px;
+}
+table,
+th,
+tr,
+td {
+  border: solid 2px rgb(0, 0, 0);
+  border-collapse: collapse;
+  text-align: center;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}
