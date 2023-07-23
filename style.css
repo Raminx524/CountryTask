@@ -43,7 +43,7 @@ nav {
 }
 nav > a {
   text-decoration: none;
-  color: rgb(0, 0, 0);
+  color: #f3de77;
 }
 nav > a:hover {
   transform: scale(1.1);
